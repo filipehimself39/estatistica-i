@@ -1,5 +1,7 @@
 # estatistica-i - sala 203, bloco H
 
+![perfect_blue_exhausted](https://user-images.githubusercontent.com/128937668/233797435-e0085df8-32a6-4539-9f0c-25125d83501d.gif)
+
 **População:** coleção completa de todos os elementos/indivíduos sobre os quais o pesquisador deseja estudar e chegar a conclusões.
 
 **Amostra:** subconjunto de membros selecionados de uma população.
@@ -21,6 +23,8 @@
 **Estatística:** descrição numérica de uma característica da amostra.
 
 ---
+
+![inferencia](https://user-images.githubusercontent.com/128937668/233797484-a1385857-5a38-405a-909d-2527813ab1f7.png)
 
 A **estatística descritiva** emprega métodos numéricos e gráficos para investigar padrões em um conjunto de dados, resumir as informações reveladas e apresentá-las de uma forma apropriada. População <-> Estatística descritiva.
 
@@ -52,23 +56,17 @@ Como podemos obter amostras adequadas? Pelos **métodos de amostragem.**
 
 * Probabilística:
 
-Aleatória simples
-Sistemática
-Estratificada
-Por conglomerados
+Aleatória simples; Sistemática; Estratificada; Por conglomerados.
 
 * Não probabilística:
 
-Por conveniência
-Intencional ou Julgamento
-Bola de neve
-Por cotas
+Por conveniência; Intencional ou Julgamento; Bola de neve; Por cotas.
 
 ---
 
 # Amostragens Probabilísticas
 
-* **Amostragem aleaória simples (com ou sem reposição)**
+* **Amostragem aleatória simples (com ou sem reposição)**
 
 1. Selecione uma unidade de U (população) com probabilidade 1/N.
 
@@ -140,6 +138,8 @@ Por cotas
 * Devemos tomar **muito cuidado** ao interpretar resultados baseados em métodos de amostragem não probabilísticos.
 
 ---
+
+![tipos_variaveis](https://user-images.githubusercontent.com/128937668/233797498-34076fe3-77c0-4574-86e7-f07b36519d9c.png)
 
 **Variável:** característica medida ou observada em cada indivíduo em estudo.
 
