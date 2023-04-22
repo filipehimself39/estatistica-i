@@ -56,14 +56,6 @@ Como podemos obter amostras adequadas? Pelos **métodos de amostragem.**
 
 * **Amostragem não probabilística:** a amostragem não probabilística seleciona uma amostra de uma população maior, tendo consciência de que alguns membros da população não têm chance de responderem à pesquisa.
 
-* **Probabilística:**
-
-Aleatória simples; Sistemática; Estratificada; Por conglomerados.
-
-* **Não probabilística:**
-
-Por conveniência; Intencional ou Julgamento; Bola de neve; Por cotas.
-
 ---
 
 ## Amostragens Probabilísticas
@@ -90,7 +82,7 @@ Por conveniência; Intencional ou Julgamento; Bola de neve; Por cotas.
 
 * **Amostragem por conglomerados**
 
-1. Particione a população em grupos dijuntos, chamados de conglomerados.
+1. Particione a população em grupos disjuntos, chamados de conglomerados.
 
 
 2. Selecione uma amostra de m conglomerados.
@@ -158,4 +150,58 @@ Por conveniência; Intencional ou Julgamento; Bola de neve; Por cotas.
 * **Ordinal:** com ordenação, grau ou nível.
 
 ---
+
+## Tabelas de frequência para uma variável qualitativa
+
+**Classe:** uma classe é uma das categorias nas quais uma variável qualitativa pode ser classificada.
+
+**Frequência da classe:** é o número de observações no conjunto de dados que pertence a uma particular classe.
+
+**Frequência relativa de classe:** é a frequência de classe dividida pelo número total de observações no conjunto de dados.
+
+**Percentual da classe:** é a frequência relativa de classe multiplicada por 100.
+
+---
+
+**Aréa** | **Frequência** | **Frequência relativa**
+---|---|---|
+engenharias | 3 | 0.30
+biológicas | 2 | 0.20
+exatas | 2 | 0.20
+sociais | 2 | 0.20
+humanas | 1 | 0.10
+total | 10 | 1.00
+
+---
+
+**Refrigerante** | **Frequência** | **Frequência relativa**
+---|---|---|
+fanta | 44 | 0.22
+sprite | 36 | 0.18
+coca-cola | 80 | 0.40
+guaraná | 40 | 0.20
+total | 200 | 1
+
+---
+
+Em algumas situações, principalmente nas variáveis qualitativas ordinais (ordenadas), podemos construir:
+
+**Frequência acumulada:** é a frequência absoluta acumulada conforme a disposição das classes.
+
+**Frequência acumulada relativa:** é a frequência relativa acumulada conforme a disposição das classes.
+
+**Escolaridade** | **Frequência** | **Frequência relativa** | **Frequência acumulada** | **Frequência acumulada relativa**
+---|---|---|
+analfabeto | 5 | 0.07 | 5 | 0.07
+5o ano completo | 12 | 0.17 | 17 | 0.25
+fundamental completo | 14 | 0.20 | 31 | 0.45
+médio completo | 20 | 0.29 | 51 | 0.74
+superior completo | 12 | 0.17 | 63 | 0.91
+mestrado | 5 | 0.07 | 68 | 0.99
+doutorado | 1 | 0.01 | 69 | 1
+total | 69 | 1 | 69 | 1
+
+---
+
+## Gráficos para frequência de uma variável qualitativa
 
