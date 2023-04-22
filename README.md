@@ -201,3 +201,108 @@ total | 69 | 1 | 69 | 1
 
 ## Gráficos para frequência de uma variável qualitativa
 
+A escolha do gráfico para visualizar os dados de uma única variável categórica depende do que se busca enfatizar.
+
+* **Gráfico de barras**
+
+* Um gráfico de barras visualiza uma variável categórica como uma série de barras, com cada barra representando a frequência de uma única categoria.
+
+* O comprimento de cada barra representa a frequência absoluta (quantidade) ou a frequência relativa (percentagem) de valores de uma categoria.
+
+* As barras são separadas por espaço.
+
+---
+
+* **Gráfico de barras empilhadas, setores e rosca**
+
+* Utiliza partes de um todo para representar as frequências de cada categoria.
+
+* O tamanho de cada parte, ou fatia, varia de acordo com a percentagem em cada categoria.
+
+* Os gráficos de **pizza e rosca** não são muito recomendados pois:
+
+1. Não somos particularmente bons em estimar quantidades a partir de ângulos.
+
+2. Combinar os rótulos e as fatias pode ser um trabalho árduo.
+
+* De um modo geral, esses gráficos tem uma **desvantagem** de, em pequenas percentagens (que podem ser importantes), se torna difícil representá-las.
+
+---
+
+* **Diagrama de Pareto**
+
+* A frequência de cada categoria são plotadas como barras verticais em ordem decrescente.
+
+* Além disso, as barras são combinadas com uma linha de percentagem acumulada no mesmo gráfico.
+
+* Esses gráficos ajudam a identificar visualmente as categorias vitais das triviais, permitindo que possamos nos concentrar nas categorias mais importantes.
+
+---
+
+## Distribuição de frequências para variáveis quantitativas
+
+Ao organizar os dados de variáveis quantitativas visualmente, objetiva-se representar:
+
+* **Distribuição:** a natureza ou forma da distribuição dos dados.
+
+* **Centro:** um valor representativo ou médio que indica onde se localiza o centro do conjunto de dados.
+
+* **Variação:** uma medida de quanto os valores dos dados variam entre si.
+
+* **Outliers:** valores que se distanciam da grande maioria dos outros valores.
+
+---
+
+* Para representar variáveis quantitativas (principalmente as contínuas) em tabelas e gráficos, é necessário construir classes ou **faixas de valores**.
+
+* As classes devem abranger todas as observações e cada valor observado deve enquadrar-se em apenas uma classe.
+
+* O extremo superior de uma classe é o extremo inferior da classe subsequente.
+
+* A quantidade de classes, de modo geral, não deve ser inferior a 5 ou superior a 15.
+
+---
+
+A Regra de Sturges é uma função linear em escala logarítmica e constrói intervalos de igual **amplitude**.
+
+**Regra de Sturges**
+
+k = 1 + 3,22*log10(n)
+
+onde:
+
+* k é o número de classe
+
+* n é o número de observações
+
+Para determinar a **amplitude da classe** de valores, utlizamos a seguinte equação:
+
+**Amplitude da classe = (máximo - mínimo) / k**
+
+ou seja, subtrai-se o valor mais baixo do valor mais alto e divide esse resultado pelo número de classes de Sturges.
+
+---
+
+15 | 20 | 45 | 19 | 13 | 38 | 13 | 46 | 20 | 18 | 14 | 16 | 19 | 21 | 22 | 13 | 32 | 23 | 18 | 24 | 29 | 44 | 24 | 25 | 27 | 25 | 39 | 18 | 33 | 27 | total = 30
+
+n = 30
+
+k = 1 + 3,22*log10(30) = 5.90 ≌ 6 classes
+
+portanto, amplitude da classe = (45 - 13) / 6 = 5.5 ≌ 6
+
+---
+
+**Idade** | **Frequência** | **Frequência relativa** | **Frequência acumulada** | **Frequência acumulada relativa**
+---|---|---|---|---|
+[13, 19) | 9 | 0.30 | 9 | 0.30
+[19, 25) | 9 | 0.30 | 18 | 0.60
+[25, 31) | 5 | 0.17 | 23 | 0.77
+[31, 37) | 2 | 0.07 | 25 | 0.83
+[37, 43) | 2 | 0.07 | 27 | 0.90
+[43, 49) | 3 | 0.10 | 30 | 1.00
+total | 30 | 1.00 | 30 | 1.00
+
+---
+
+**Gráficos para frequência**
