@@ -56,17 +56,17 @@ Como podemos obter amostras adequadas? Pelos **métodos de amostragem.**
 
 * **Amostragem não probabilística:** a amostragem não probabilística seleciona uma amostra de uma população maior, tendo consciência de que alguns membros da população não têm chance de responderem à pesquisa.
 
-* Probabilística:
+* **Probabilística:**
 
 Aleatória simples; Sistemática; Estratificada; Por conglomerados.
 
-* Não probabilística:
+* **Não probabilística:**
 
 Por conveniência; Intencional ou Julgamento; Bola de neve; Por cotas.
 
 ---
 
-# Amostragens Probabilísticas
+## Amostragens Probabilísticas
 
 * **Amostragem aleatória simples (com ou sem reposição)**
 
@@ -97,7 +97,7 @@ Por conveniência; Intencional ou Julgamento; Bola de neve; Por cotas.
 
 3. Se amostragem em 1 etapa, inclua todas as unidades da população U encontradas nos m conglomerados na amostra.
 
-# Amostragens não probabilísticas
+## Amostragens não probabilísticas
 
 * **Amostragem por conveniência**
 
