@@ -8,6 +8,8 @@
 
 **Censo:** conjunto de dados obtidos de todos os membros da população.
 
+![pop_amostra](https://user-images.githubusercontent.com/128937668/233797748-e2c739be-6d40-4c23-ba3f-d1bbd92ba5d5.png)
+
 **Razões para se trabalhar com amostras**
 
 * Envelhecimento da pesquisa: tempo excessivo para coleta dos dados.
