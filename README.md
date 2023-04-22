@@ -191,7 +191,7 @@ Em algumas situações, principalmente nas variáveis qualitativas ordinais (ord
 **Frequência acumulada relativa:** é a frequência relativa acumulada conforme a disposição das classes.
 
 **Escolaridade** | **Frequência** | **Frequência relativa** | **Frequência acumulada** | **Frequência acumulada relativa**
----|---|---|
+---|---|---|---|---|
 analfabeto | 5 | 0.07 | 5 | 0.07
 5o ano completo | 12 | 0.17 | 17 | 0.25
 fundamental completo | 14 | 0.20 | 31 | 0.45
