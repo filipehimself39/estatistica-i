@@ -332,6 +332,7 @@ Densidade = frequência relativa / amplitude
 (histograma de densidade)
 
 CH | frequência | frequência relativa | densidade
+---|---|---|---|
 [0, 60) | 74 | 0.084 | 0.0014
 [60, 120) | 97 | 0.111 | 0.0019
 [120, 180) | 137 | 0.156 | 0.0026
