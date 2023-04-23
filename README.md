@@ -287,7 +287,7 @@ ou seja, subtrai-se o valor mais baixo do valor mais alto e divide esse resultad
 
 n = 30
 
-k = 1 + 3,22*log10(30) = 5.90 ≌ 6 classes
+k = 1 + 3,322*log10(30) = 5.90 ≌ 6 classes
 
 portanto, amplitude da classe = (45 - 13) / 6 = 5.5 ≌ 6
 
@@ -306,3 +306,174 @@ total | 30 | 1.00 | 30 | 1.00
 ---
 
 **Gráficos para frequência**
+
+O gráfico de barras pode ser usado em algumas variáveis quantitativas discretas, especialmente quando possuem poucos valores distintos:
+
+Nas situações em que os dados são distribuídos em faixas de classes, o mais recomendado é utilizar o gráfico histograma.
+
+* Um histograma apresenta os dados como um gráfico de barras verticais.
+
+* Cada barra representa uma classe de valores da distribuição de frequência.
+
+* A variável numérica é representada ao longo do eixo horizontal e o eixo vertical representa a frequência absoluta ou relativa de valores por intervalo de classe.
+
+* Nunca há lacunas entre as barras adjacentes em um histograma.
+
+**obs:** tanto no gráfico de barras como no histograma o número de classes têm que ser relativamente baixo para que funcione bem.
+
+---
+
+**Histograma de densidade**
+
+* A densidade de cada classe é dada pela razão entre a frequência relativa e a amplitude de classe:
+
+Densidade = frequência relativa / amplitude
+
+(histograma de densidade)
+
+CH | frequência | frequência relativa | densidade
+[0, 60) | 74 | 0.084 | 0.0014
+[60, 120) | 97 | 0.111 | 0.0019
+[120, 180) | 137 | 0.156 | 0.0026
+[180, 240) | 136 | 0.155 | 0.0026
+[240, 300) | 142 | 0.162 | 0.0027
+[300, 360) | 105 | 0.120 | 0.0020
+[360, 420) | 88 | 0.100 | 0.0017
+[420, 480) | 67 | 0.076 | 0.0013
+[480, 540) | 31 | 0.035 | 0.0006
+total | 877 | 1 | -
+
+* Nesse caso, como a amplitude é sempre 60, basta dividir a frequência relativa por 60, para obter a densidade.
+
+---
+
+**1.** População é o conjunto de todos os elementos/indivíduos em que se deseja estudar.
+
+Amostra é um subconjunto da população composto por elementos selecionados.
+
+Censo é o conjunto de dados obtidos de toda a população.
+
+**2.** Pois com uma amostra da população em que se deseja estudar fica muito mais fácil a coleta de dados assim como os custos diminuem drasticamente.
+
+**3.a.** população: todas as mães de Niterói; amostra: 200 mães entrevistadas.
+
+**b.** população: toda a audiência de um canal de TV em específico; amostra: 563 indivíduos telefonados.
+
+**c.** população: residentes votantes de Brasília; amostra: 122 pessoas entrevistadas.
+
+**d.** população: todos os votantes do país em questão; amostra: 10 adultos questionados.
+
+**e.** população: todas as famílias que assistem à TV regularmente; amostra: 5000 famílias entrevistadas.
+
+**f.** população: toda a população dos EUA; amostra: 80 famílias selecionadas.
+
+**4.a.** estatística.
+**b.** parâmetro.
+**c.** parâmetro.
+**d.** estatística.
+**e.** parâmetro.
+**f.** parâmetro.
+**g.** estatística.
+
+**5.** Na amostragem probabilística todo elemento da população tem uma chance não nula de pertencer à amostra, já na amostragem não probabilística se seleciona um grupo de respondentes, tendo consciência de que alguns membros da população não têm chance de responderem à pesquisa.
+
+Para a amostragem probabilística suas vantagens óbvias são resultados mais confiáveis pois produzem uma amostra mais representativa da população estudada, porém, realizar uma pesquisa de grande escala nem sempre é possível ou vantajoso pois podem ser muito dispendiosas e requerem muito tempo durante o processo.
+
+E para a amostragem não probabilística suas vantagens surgem justamente das complicações da amostragem probabilística, para uma pesquisa de rotina é muito mais fácil e rápido se utilizar dos métodos de amostragem não probabilístico, entretanto devemos tomar muito cuidado ao interpretar resultados baseados nesses métodos.
+
+**6.** (P); (NP); (P); (P); (P)
+
+**7.** (B); (D); (C); (A)
+
+**8.** (B); (A); (C); (D)
+
+**9.** Eficácia de uma campanha de vacinação; audiência de um programa de TV; intenção de voto para presidente; aprovação do atual presidente; telespectadores do Jornal Nacional; número médio de pessoas por família.
+
+**10.a.** qualitativa nominal.
+**b.** qualitativa ordinal.
+**c.** quantitativa contínua.
+**d.** qualitativa ordinal.
+**e.** quantitativa discreta.
+**f.** qualitativa nominal.
+
+---
+
+**11.** Não, pois a frequência relativa é a frequência da classe dividida pelo número total de observações.
+
+**12.**
+causas de acidente | frequência
+---|---|
+trilho ruim | 23
+equip. defeituoso | 9
+falha humana | 12
+outras causas | 6
+total | 50
+
+**13.a.**
+satisfação | frequência | frquência acumulada | frequência relativa | frequência relativa acumulada
+---|---|---|---|---|
+muito satisfeito | 46 | 46 | 0.32 | 0.32
+satisfeito | 57 | 103 | 0.40 | 0.72
+neutro | 21 | 124 | 0.15 | 0.86
+insatisfeito | 15 | 139 | 0.10 | 0.97
+muito insatisfeito | 4 | 143 | 0.03 | 1
+total | 143 | 143 | 1 | 1
+
+**b.** (gráfico de barras). A escolha do gráfico se dá por conta de ser uma variável quantitativa discreta sem uso de faixas de classe.
+
+**c.** Não, pois há valores muito próximos uns dos outros assim como um número grande de classes, portanto, o gráfico de pizza não é ideal aqui pois não somos bons em estimar quantidades a partir de ângulos e o gráfico ficaria muito poluído e confuso.
+
+**d.** 97%.
+
+**e.** 72%.
+
+**14.** Ambos os gráficos, de barras e de Pareto, usam barras ou colunas para representar os dados, sendo que o gráfico de barras utiliza barras juntas, e o de Pareto barras espaçadas em ordem decrescente, mas sua principal diferença é a existência de uma linha de percentagem acumulada, essa característica ajuda em distinguir as informações vitais das triviais, para que possamos nos atentar nas categorias mais importantes.
+
+**15.** Apresentam desvantagens pelo fato de nós humanos, não sermos particularmente bons em visualizar e estimar quantidades a partir de ângulos aliado ao fato de que se tiver muitas categorias fica bastante poluído e de difícil compreensão.
+
+**16.a.** Variável qualitativa nominal.
+
+**b.** Gráfico de barras.
+
+**c.** Por conveniência. Não, pois esse tipo de amostragem parte da premissa de que algumas pessoas ou grupos de pessoas não vão conseguir responder à pesquisa, o que de fato acontece aqui neste exemplo, pessoas que vão deixar de responder pelos mais variados motivos compõem tipos de subgrupos diferentes que não vão estar na amostra e, portanto, a mesma não será representativa.
+
+**d.** A diferença entre as categorias aparenta ser muito maior do que realmente é. Diminuir a escala (eixo y) é uma alternativa.
+
+**e.** A percentagem vai ser a frequência relativa, que aqui é 260/641 = 41%. É um parâmetro, pois está sendo considerada toda a população da pesquisa e não uma amostra da mesma, sendo um parâmetro uma descrição numérica de uma característica de toda a população e uma estatística uma descrição numérica de uma característica da amostra.
+
+**17.a.**
+
+nota | frequência | frequência relativa | frequência acumulada
+---|---|---|---|
+[0, 2) | 14 | 0.17 | 14
+[2, 4) | 28 | 0.33 | 42
+[4, 6) | 27 | 0.32 | 69
+[6, 8) | 11 | 0.13 | 80
+[8, 10) | 4 | 0.05 | 84
+total | 84 | 1 | 84
+
+análise descritiva: a frequência relativa mostra que os valores, ou notas, estão concentradas no centro da distribuição. E a frequência acumulada indica que a maior parte dos alunos ficou com notas de 0 a 6, e uma pequena percentagem de 6 a 10.
+
+**b.** fazer um histograma.
+
+**c.** 18% de aprovação.
+
+**18.** k = 1 + 3,322log n
+n = 49
+k = 1 + 3,322log 49 --> k = 6.61 ≌ 7 classes
+amplitude de classe = 5 - 0.8 / 7 = 0.6
+
+salário | frequência | frequência relativa | frequência acumulada | frquência acumulada relativa
+---|---|---|---|---|
+[0.8, 1.4) | 6 | 0.12 | 6 | 0.12
+[1.4, 2.0) | 10 | 0.20 | 16 | 0.33
+[2.0, 2.6) | 11 | 0.22 | 27 | 0.55
+[2.6, 3.2) | 9 | 0.18 | 36 | 0.73
+[3.2, 3.8) | 4 | 0.08 | 40 | 0.81
+[3.8, 4.4) | 6 | 0.12 | 46 | 0.94
+[4.4, 5.0) | 3 | 0.06 | 49 | 1
+total | 49 | 1 | 49 | 1
+
+análise descritiva: as três primeiras classes contém mais da metade das observações.
+
+**23.** Em situações onde há valores extremos a mediana não é afetada negativamente, por outro lado, a média é bastante influenciada e pode não ser tão representativa.
