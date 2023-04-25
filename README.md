@@ -346,6 +346,74 @@ total | 877 | 1 | -
 
 * Nesse caso, como a amplitude é sempre 60, basta dividir a frequência relativa por 60, para obter a densidade.
 
+## Medidas resumo
+
+Vimos que o resumo de dados das variáveis quantitativas por meio de tabelas de frequências e gráficos fornece muito mais informações sobre o comportamento de uma variável do que a própria tabela original de dados.
+
+Muitas vezes, queremos resumir ainda mais estes dados, apresentando um ou alguns valores que sejam representativos da série toda.
+
+* O somatório e o produtório irão facilitar a notação na definição das medidas resumo aqui apresentadas.
+
+---
+
+**Média aritmética**
+
+A **média aritmética simples** é a soma de todos os valores dividida pela quantidade de valores.
+
+Tem interpretação física de centro de gravidade.
+
+É uma medida resumo influenciada por valores extremos (outliers).
+
+A **média aritmética ponderada** leva em consideração o peso atribuído a cada um dos valores dos quais queremos calcular a média.
+
+Quanto maior o peso de determinado valor, maior será o impacto dele na média, tornando esses valores mais relevantes.
+
+A média ponderada é aplicada, por exemplo, em situações que envolvem notas, ou quando há acúmulos de frequência para determinados valores.
+
+Para calcular a média ponderada de um conjunto de valores, calculamos o produto de cada valor pelo seu peso, somamos os produtos encontrados, e dividimos a soma pela soma dos pesos.
+
+---
+
+**Mediana**
+
+A **mediana** é o número que ocupa a posição intermediária quando os valores são ordenados.
+
+Separa o conjunto de valores em duas partes de mesmo tamanho. Assim, se todos os valores na amostra forem distintos, metade dos valores é menor que a mediana e metade é maior que ela.
+
+---
+
+**Moda**
+
+**Moda** é o valor ou classe que ocorre com maior frequência (ou densidade) na amostra.
+
+A moda representa o valor mais típico, ou seja, o que mais se repete.
+
+Para variáveis onde todos os valores são distintos, a moda fica indefinida.
+
+---
+
+**Quando usar cada medida de posição**
+
+**candidato:** quanto ganha um funcionário da empresa?
+
+**entrevistador:** você quer saber o que exatamente?
+
+O salário **médio**?
+O salário **intermediário**?
+Ou o salário **típico**?
+
+---
+
+* A média é muito influenciada pela presença de valores extremos (muito baixos ou muito altos).
+
+* A mediana é mais robusta à presença de valores discrepantes.
+
+* Para variáveis qualitativas nominais e ordinais, pode ser utilizada a moda para determinar a categoria que possui maior frequência de observações.
+
+* Para algumas variáveis qualitativas ordinais, pode-se usar as medidas de posição como a média, moda e mediana.
+
+## Medidas de posição relativa (separatrizes)
+
 ---
 
 **1.** População é o conjunto de todos os elementos/indivíduos em que se deseja estudar.
@@ -394,7 +462,7 @@ E para a amostragem não probabilística suas vantagens surgem justamente das co
 **b.** qualitativa ordinal.
 **c.** quantitativa contínua.
 **d.** qualitativa ordinal.
-**e.** quantitativa discreta.
+**e.** qualitativa ordinal.
 **f.** qualitativa nominal.
 
 ---
@@ -477,4 +545,31 @@ total | 49 | 1 | 49 | 1
 
 análise descritiva: as três primeiras classes contém mais da metade das observações.
 
+**19.** No primeiro histograma percebe-se que mais da metade das observações estão concentradas no intervalo de 12 a 24, já no segundo histograma observa-se uma distribuição normal.
+
+**20.a.** variável quantitativa contínua.
+
+**b.**
+
+número de horas | frequência | frequência relativa % | frequência relativa acumulada
+---|---|---|---|
+3 | 2 | 8.3 | 8.3
+4 | 5 | 20.9 | 29.2
+5 | 3 | 12.5 | 41.6
+6 | 4 | 16.7 | 58.3
+7 | 10 | 41.6 | 1
+total | 24 | 1 | 1
+
+**c.** Histograma.
+
+**21.** construir histograma e calcular a densidade.
+
+**22.** gráfico ramo e folhas.
+
 **23.** Em situações onde há valores extremos a mediana não é afetada negativamente, por outro lado, a média é bastante influenciada e pode não ser tão representativa.
+
+**24.** Não, pois trata-se de variáveis qualitativas.
+
+**25.** Sim, pois para se calcular a mediana é necessário dispor as observações em ordem crescente e então pega-se o valor do meio ou valores, e nesse caso, tira-se a média destes.
+
+**26.a.**
