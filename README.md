@@ -572,4 +572,60 @@ total | 24 | 1 | 1
 
 **25.** Sim, pois para se calcular a mediana é necessário dispor as observações em ordem crescente e então pega-se o valor do meio ou valores, e nesse caso, tira-se a média destes.
 
-**26.a.**
+**26.a.** média = 28.65/11 = 2.60
+moda = 2.64
+2.50; 2.55; 2.57; 2.59; 2.60; 2.61; 2.62; 2.63; 2.64; 2.64; 2.70. mediana = 2.61
+
+**b.** Não será alterada pois a mediana pega o valor intermediário.
+
+**27.**
+
+erros | frequência
+---|---|
+0 | 25
+1 | 20
+2 | 3
+3 | 1
+4 | 1
+total | 50
+
+**a.** (0+0+0+...+0+1+1+1+...+1+2+2+2+3+4) / 50 = 33 / 50 = 0.66
+
+**b.** 50 é par, então, y(25) + y(26) / 2 = (0 + 1) / 2 = 0.5
+
+**c.** 0.
+
+**d.** 50 * 10 = 500, 25 * 10 = 250
+
+**28.a.** Nem a média nem a mediana seriam ideais para o exemplo dado, pois ambas são medidas que estariam localizadas no centro da distribuição, o que não seria representativo da amostra.
+
+**b.** A moda.
+
+**29.** 0+0+0+...+0+1+1+1+...+1+2+2+2+...+2+3+3+3+...+3+4+4+4+...+4+5+5+5+...+5...
+mediana = y(50) + y(51) / 2 = (2 + 2) / 2 = 2
+
+**b.** 2.
+
+**c.** 100-17 = 83, média = 83 / 100 = 0.83
+
+**30.** (somatório)
+
+**31.** (produtório)
+
+**32.** (média harmônica)
+
+**33.** P(50), Q(2) são outras duas maneiras de se representar a mediana, logo, os símbolos são equivalentes.
+
+**34.** O valor 5 representa o mínimo, o valor 47, o P(25) ou Q(1), o valor 104, o P(50) ou mediana ou ainda Q(2), o valor 121, o P(75) ou Q(3), e o valor 380, o máximo.
+
+**35.** (boxplot)
+
+**36.** (boxplot)
+
+**37.** (boxplot)
+
+**38.** (boxplot)
+
+**39.** (boxplot)
+
+**40.** (boxplot)
