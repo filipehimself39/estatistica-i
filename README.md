@@ -414,7 +414,23 @@ Ou o salário **típico**?
 
 ## Medidas de posição relativa (separatrizes)
 
+Além dos valores mínimo y(1) e máximo y(n), que são de fácil compreensão, tem-se também os **percentis**.
+
+Os percentis posicionam um valor dentro do grupo, indicando o percentual de valores que são menores ou iguais a ele.
+
+Os percentis de ordem 25%, 50% e 75% são denotados por primeiro quartil (Q1), segundo quartil (Q2) e terceiro quartil (Q3).
+
+O percentil de 50% (Q2) é a mediana.
+
+**Boxplot**
+
+O boxplot é um dos gráficos mais importantes da estatística.
+
+Ao ser aplicado em um conjunto de dados, o boxplot dá uma ideia da posição, dispersão, assimetria, caudas e dados discrepantes.
+
 ---
+
+(**lista primeira**)
 
 **1.** População é o conjunto de todos os elementos/indivíduos em que se deseja estudar.
 
@@ -629,3 +645,9 @@ mediana = y(50) + y(51) / 2 = (2 + 2) / 2 = 2
 **39.** (boxplot)
 
 **40.** (boxplot)
+
+---
+
+(**lista 2**)
+
+**1.a.**
